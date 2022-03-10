@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386851887426",
+    "project_id": "my-awesome-project-id-2b414",
+    "storage_bucket": "my-awesome-project-id-2b414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851887426:android:c2c37290f7181ed627d0db",
+        "android_client_info": {
+          "package_name": "com.GoalDiggers.InfoSync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851887426-0uvjfuegqn635sn7n5kinf6pcs94na5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmByMGKFxTYlnDWZok08LNqrDsngKzZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386851887426-0uvjfuegqn635sn7n5kinf6pcs94na5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
